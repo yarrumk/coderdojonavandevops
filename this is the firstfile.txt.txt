@@ -1,1 +1,3 @@
 blah blah blah blah
+now translated into french
+see second file.txt
